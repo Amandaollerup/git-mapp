@@ -1,0 +1,24 @@
+</DOCTYPE html>
+<html lang="sv">
+	<head>
+		<meta charset="UTF-8">
+		<title>sidans titel</title>
+		<link rel="stylesheet" type="text/css" href="normalize.css">
+		<link rel="stylesheet" type="text/css" href="styles.css">
+	</head>
+<body>
+	<center>
+	<img class="logo" src="bilder/picture1.png">
+	<hr size= "5" color= "#000000">
+	</center>
+
+
+	<img class="header" src="bilder/untitled-7.jpg">
+	<img class="puff" src="bilder/bild5.jpg">
+	<img class="puff" src="bilder/bild5.jpg">
+	<img class="puff" src="bilder/bild5.jpg">
+
+</body>
+</html>
+
+
